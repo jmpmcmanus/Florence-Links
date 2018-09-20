@@ -27,7 +27,6 @@ This repository has a README that contains links to sites related to Hurricane F
  * PF Documents-PFDS/HDSC/OWP (http://www.nws.noaa.gov/oh/hdsc/currentpf.htm)
  * PF in GIS Format - PFDS/HDSC/OWP (https://hdsc.nws.noaa.gov/hdsc/pfds/pfds_gis.html)
  * National Hydrography Dataset (NHD): GIS: NCSU Libraries (https://www.lib.ncsu.edu/gis/nhd.html)
- * NC Basin Planning Map (http://www.ncwater.org/ibt/basinplan_frames_dhtml.html?map=ibt/basinplan.map&amp;program=/cgi-bin/mapserv.exe&amp;root=/ibt&amp;map_web_imagepath=/ms4w/tmp/&amp;map_web_imageurl=/tmp/&amp;map_web_template=basinplan.php)
  * NC DEQ: Water Resources (http://deq.nc.gov/about/divisions/water-resources/)
  * NC OneMap Data Explorer (http://204.211.160.20:8080/geoportal/dataexplorer/index.jsp)
  * NC OneMap GeoPortal (http://data.nconemap.gov/geoportal/catalog/main/home.page)
