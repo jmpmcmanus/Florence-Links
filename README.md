@@ -13,7 +13,7 @@ This repository has a README that contains links to sites related to Hurricane F
 ## Data
  * Billion-Dollar Weather and Climate Disasters: Overview - National Centers for Environmental Information (NCEI) (https://www.ncdc.noaa.gov/billions/)
  * Storm Events Database - National Centers for Environmental Information (https://www.ncdc.noaa.gov/stormevents/)
- * The Effect of Natural Disasters on Economic Activity in US Counties: A Century of Data (http://www.nber.org/papers/w23410)
+ * AHPS Precipitation Analysis (https://water.weather.gov/precip/)
  * GHCNDEX: Gridded Temperature and Precipitation Climate Extremes Indices (CLIMDEX data) - NCAR - Climate Data Guide (https://climatedataguide.ucar.edu/climate-data/ghcndex-gridded-temperature-and-precipitation-climate-extremes-indices-climdex-data)
  * HadEX2: Gridded Temperature and Precipitation Climate Extremes Indices (CLIMDEX data) - NCAR - Climate Data Guide (https://climatedataguide.ucar.edu/climate-data/hadex2-gridded-temperature-and-precipitation-climate-extremes-indices-climdex-data)
  * ERA-20C: ECMWF&#39;s atmospheric reanalysis of the 20th century (and comparisons with NOAA&#39;s 20CR) - NCAR - Climate Data Guide (https://climatedataguide.ucar.edu/climate-data/era-20c-ecmwfs-atmospheric-reanalysis-20th-century-and-comparisons-noaas-20cr)
@@ -25,7 +25,6 @@ This repository has a README that contains links to sites related to Hurricane F
  * ESRL : PSD : All Gridded SST (https://www.esrl.noaa.gov/psd/data/gridded/tables/sst.html)
  * PF Map: Contiguous US (https://hdsc.nws.noaa.gov/hdsc/pfds/pfds_map_cont.html)
  * PF Documents-PFDS/HDSC/OWP (http://www.nws.noaa.gov/oh/hdsc/currentpf.htm)
- * NOAA ATLAS 14 POINT PRECIPITATION FREQUENCY ESTIMATES - NOAA Data Catalog (https://data.noaa.gov/harvest/noaa-atlas-14-point-precipitation-frequency-estimates)
  * PF in GIS Format - PFDS/HDSC/OWP (https://hdsc.nws.noaa.gov/hdsc/pfds/pfds_gis.html)
  * National Hydrography Dataset (NHD): GIS: NCSU Libraries (https://www.lib.ncsu.edu/gis/nhd.html)
  * NC Basin Planning Map (http://www.ncwater.org/ibt/basinplan_frames_dhtml.html?map=ibt/basinplan.map&amp;program=/cgi-bin/mapserv.exe&amp;root=/ibt&amp;map_web_imagepath=/ms4w/tmp/&amp;map_web_imageurl=/tmp/&amp;map_web_template=basinplan.php)
