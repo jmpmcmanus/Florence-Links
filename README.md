@@ -3,7 +3,6 @@ This repository has a README that contains links to sites related to Hurricane F
 
 ## Florence
  * Florence Response (https://www.florenceresponse.org/)
- * Geomni Capturing and Processing Post Hurricane Florence Imagery (https://www10.giscafe.com/nbc/articles/view_article.php?section=CorpNews&amp;articleid=1614326)
  * Flood Risk Information System (https://fris.nc.gov/fris/)
  * Hurricane Florence: Aerial Imagery Capture Underway (https://www.geomni.net/en-us/news/hurricane-florence-imagery-capture-underway)
  * NC Flood Inundation Mapping and Alert Network (https://fiman.nc.gov/fiman/#)
