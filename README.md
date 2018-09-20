@@ -31,7 +31,6 @@ This repository has a README that contains links to sites related to Hurricane F
  * The National Flood Insurance Program - FEMA.gov (https://www.fema.gov/national-flood-insurance-program)
  * U.S. Fire Administration (https://www.usfa.fema.gov/index.html)
  * Write Your Own Flood Insurance Company List - FEMA.gov (http://www.fema.gov/wyo_company)
- * www.NFIPiService.com - Storm Sandy (https://nfip-iservice.com/storm_sandy.html)
 
 ## Flood
  * North Carolina Association of Floodplain Managers - HOME (http://www.ncafpm.org/index.html)
