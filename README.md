@@ -53,11 +53,8 @@ This repository has a README that contains links to sites related to Hurricane F
  * Topic: digital-elevation-model (https://github.com/topics/digital-elevation-model)
  * QGIS Plugins planet (http://planet.qgis.org/planet/tag/contours/)
  * elevation &#xb7; PyPI (https://pypi.org/project/elevation/)
-(https://www10.giscafe.com/nbc/articles/view_article.php?section=CorpNews&amp;articleid=1614757)
  * Visualizing elevation contours from raster digital elevation models in Python - Earth Data Science - Earth Lab (https://www.earthdatascience.org/tutorials/visualize-digital-elevation-model-contours-matplotlib/)
- * Working with Terrain Data &#x2014; QGIS Tutorials and Tips (http://www.qgistutorials.com/en/docs/working_with_terrain.html)
  * Working with Terrain Data &#x2014; QGIS Tutorials and Tips (https://www.qgistutorials.com/en/docs/working_with_terrain.html)
- * Creating fine interval contour layer from DEM using QGIS? - Geographic Information Systems Stack Exchange (https://gis.stackexchange.com/questions/263869/creating-fine-interval-contour-layer-from-dem-using-qgis)
 
 ## Flood
  * GitHub - aleaf/SFRmaker: Python package to facilitate use of the streamflow-routing (SFR) package in MODFLOW. (https://github.com/aleaf/SFRmaker)
