@@ -68,6 +68,8 @@ This repository has a README that contains links to sites related to Hurricane F
  * The Association of State Floodplain Managers - ASFPM (http://www.floods.org/)
  * The Flood Observatory (http://floodobservatory.colorado.edu/)
  * About Catastrophe Modeling (http://www.air-worldwide.com/Models/About-Catastrophe-Modeling/)
+ 
+## Catastrophe Modeling
  * AGORA - Home (http://www.risk-agora.org/)
  * Catastrophe modeling - Wikipedia (https://en.wikipedia.org/wiki/Catastrophe_modeling)
  * Catastrophe Modeling - The RMS Blog (http://www.rms.com/blog/tag/catastrophe-modeling/)
@@ -76,7 +78,6 @@ This repository has a README that contains links to sites related to Hurricane F
  * HAZUS - Wikipedia (https://en.wikipedia.org/wiki/HAZUS)
  * Hazus - FEMA.gov (https://www.fema.gov/HAZUS)
  * HAZUS.org - the ultimate on-line resource for everything HAZUS (http://www.hazus.org/)
- * List of Catastrophe Modeling Companies and Vendors in the Best&#39;s Review Insurance Technology Guide (http://www.bestreviewtechguide.com/category/enterprise-software-services/catastrophe-modeling)
  * New tool allows disaster modeling and simulation systems to share data (http://www.policegrantshelp.com/technology/5930528-new-tool-allows-disaster-modeling-and-simulation-systems-to-share-data/)
  * Oasis Loss Modelling Framework :: Home (http://www.oasislmf.org/)
  * Oasis Platform for Catastrophe and Climate Change Risk Assessment and Adaptation - The Lab (http://climatefinancelab.org/idea/climate-risk-assessment/)
