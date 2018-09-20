@@ -2,25 +2,15 @@
 This repository has a README that contains links to sites related to Hurricane Florence and flood data
 
 ## Florence
- * Creating fine interval contour layer from DEM using QGIS? - Geographic Information Systems Stack Exchange (https://gis.stackexchange.com/questions/263869/creating-fine-interval-contour-layer-from-dem-using-qgis)
- * DigitalGlobe - See a Better World With High-Resolution Satellite Imagery (http://www.digitalglobe.com/)
- * elevation &#xb7; PyPI (https://pypi.org/project/elevation/)
- * Flood Risk Information System (https://fris.nc.gov/fris/)
  * Florence Response (https://www.florenceresponse.org/)
  * Geomni Capturing and Processing Post Hurricane Florence Imagery (https://www10.giscafe.com/nbc/articles/view_article.php?section=CorpNews&amp;articleid=1614326)
- * GIS4WRF (https://gis4wrf.github.io/)
+ * Flood Risk Information System (https://fris.nc.gov/fris/)
  * Hurricane Florence: Aerial Imagery Capture Underway (https://www.geomni.net/en-us/news/hurricane-florence-imagery-capture-underway)
- * HydroLAB-UNIBAS/GFA-Geomorphic-Flood-Area: An automatic DEM-based procedure for flood prone areas detection (https://github.com/HydroLAB-UNIBAS/GFA-Geomorphic-Flood-Area)
  * NC Flood Inundation Mapping and Alert Network (https://fiman.nc.gov/fiman/#)
+ * DigitalGlobe - See a Better World With High-Resolution Satellite Imagery (http://www.digitalglobe.com/)
  * Open Data Program - DigitalGlobe (http://www.digitalglobe.com/opendata/hurricane-florence/pre-event)
- * QGIS Plugins planet (http://planet.qgis.org/planet/tag/contours/)
  * South Atlantic Division &gt; Missions &gt; Readiness and Contingency Operations &gt; Storms (http://www.sad.usace.army.mil/Storms/)
- * Topic: digital-elevation-model (https://github.com/topics/digital-elevation-model)
- * U.S. Army Corps of Engineers announces an online Trafficability (https://www10.giscafe.com/nbc/articles/view_article.php?section=CorpNews&amp;articleid=1614757)
- * Visualizing elevation contours from raster digital elevation models in Python - Earth Data Science - Earth Lab (https://www.earthdatascience.org/tutorials/visualize-digital-elevation-model-contours-matplotlib/)
- * Working with Terrain Data &#x2014; QGIS Tutorials and Tips (http://www.qgistutorials.com/en/docs/working_with_terrain.html)
- * Working with Terrain Data &#x2014; QGIS Tutorials and Tips (https://www.qgistutorials.com/en/docs/working_with_terrain.html)
-
+ 
 ## Data
  * Billion-Dollar Weather and Climate Disasters: Overview - National Centers for Environmental Information (NCEI) (https://www.ncdc.noaa.gov/billions/)
  * CE-DAT - Complex Emergency Database (http://cedat.be/)
@@ -32,6 +22,7 @@ This repository has a README that contains links to sites related to Hurricane F
  * Hurricane Matthew Claims Data (http://www.floir.com/Office/HurricaneSeason/HurricaneMatthewClaimsData.aspx)
  * InciWeb the Incident Information System: Current Incidents (https://inciweb.nwcg.gov/)
  * Model Data - National Centers for Environmental Information (NCEI) formerly known as National Climatic Data Center (NCDC) (https://www.ncdc.noaa.gov/data-access/model-data)
+ * GIS4WRF (https://gis4wrf.github.io/)
  * NatCatSERVICE (http://natcatservice.munichre.com/)
  * National Geographic Area Coordination Center Website Portal (https://gacc.nifc.gov/)
  * National Interagency Fire Center (https://www.nifc.gov/)
@@ -69,6 +60,17 @@ This repository has a README that contains links to sites related to Hurricane F
  * U.S. Geological Survey - National Hydrography Dataset (http://nhd.usgs.gov/wbd.html)
  * USGS South Atlantic Water Science Center - North Carolina: GIS Data (http://nc.water.usgs.gov/infodata/gisdata.html)
  * Water Resources Maps and GIS Data (http://water.usgs.gov/maps.html)
+
+## Degital Elevation Models
+ * HydroLAB-UNIBAS/GFA-Geomorphic-Flood-Area: An automatic DEM-based procedure for flood prone areas detection (https://github.com/HydroLAB-UNIBAS/GFA-Geomorphic-Flood-Area)
+ * Topic: digital-elevation-model (https://github.com/topics/digital-elevation-model)
+ * QGIS Plugins planet (http://planet.qgis.org/planet/tag/contours/)
+ * elevation &#xb7; PyPI (https://pypi.org/project/elevation/)
+(https://www10.giscafe.com/nbc/articles/view_article.php?section=CorpNews&amp;articleid=1614757)
+ * Visualizing elevation contours from raster digital elevation models in Python - Earth Data Science - Earth Lab (https://www.earthdatascience.org/tutorials/visualize-digital-elevation-model-contours-matplotlib/)
+ * Working with Terrain Data &#x2014; QGIS Tutorials and Tips (http://www.qgistutorials.com/en/docs/working_with_terrain.html)
+ * Working with Terrain Data &#x2014; QGIS Tutorials and Tips (https://www.qgistutorials.com/en/docs/working_with_terrain.html)
+ * Creating fine interval contour layer from DEM using QGIS? - Geographic Information Systems Stack Exchange (https://gis.stackexchange.com/questions/263869/creating-fine-interval-contour-layer-from-dem-using-qgis)
 
 ## Flood
  * GitHub - aleaf/SFRmaker: Python package to facilitate use of the streamflow-routing (SFR) package in MODFLOW. (https://github.com/aleaf/SFRmaker)
