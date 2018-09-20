@@ -67,9 +67,9 @@ This repository has a README that contains links to sites related to Hurricane F
  * Office of Water Prediction (http://water.noaa.gov/about/nwm)
  * The Association of State Floodplain Managers - ASFPM (http://www.floods.org/)
  * The Flood Observatory (http://floodobservatory.colorado.edu/)
- * About Catastrophe Modeling (http://www.air-worldwide.com/Models/About-Catastrophe-Modeling/)
  
 ## Catastrophe Modeling
+ * About Catastrophe Modeling (http://www.air-worldwide.com/Models/About-Catastrophe-Modeling/)
  * AGORA - Home (http://www.risk-agora.org/)
  * Catastrophe modeling - Wikipedia (https://en.wikipedia.org/wiki/Catastrophe_modeling)
  * Catastrophe Modeling - The RMS Blog (http://www.rms.com/blog/tag/catastrophe-modeling/)
